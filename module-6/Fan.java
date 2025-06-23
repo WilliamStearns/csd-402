@@ -1,3 +1,12 @@
+/*William Stearns
+ * 6-21-25
+ * CSD402
+ * This program will create a fan class with methods to set and get the speed, power, radius, and color.*/
+public class Fan {
+    public static final int STOPPED = 0;
+    public static final int SLOW = 1;
+    public static final int MEDIUM = 2;
+    public static final int FAST = 3;
 
     private int speed;
     private boolean on;
