@@ -3,9 +3,6 @@
  * CSD402
  * This program tests the Fan class.*/
 import static java.lang.System.*;
-
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
     //Create two Fan objects and display their status
