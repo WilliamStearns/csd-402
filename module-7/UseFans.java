@@ -1,3 +1,7 @@
+/*William Stearns
+ * 7-1-25
+ * CSD402
+ * This creates a class to demonstrate the use of the Fan class..*/
 import java.util.ArrayList;
 
 public class UseFans {
