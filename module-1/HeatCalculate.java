@@ -3,7 +3,6 @@
 //CSD402
 //This program will take user input and determine the energy needed to heat water.
 
-import javax.swing.*;
 
 import static javax.swing.JOptionPane.*;
 
