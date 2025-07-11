@@ -1,3 +1,8 @@
+/* William Stearns
+ * 7-7-25
+ * CSD402
+ * This creates and uses instances of the other two classes that inherit from an abstract class.
+ */
 public class UseDivision {
     public static void main(String[] args) {
         // Domestic Divisions
