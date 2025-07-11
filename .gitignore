@@ -174,3 +174,8 @@ cython_debug/
 .pypirc
 .vscode/launch.json
 module-1/HeatCalculate.java
+module-8.zip
+module-10/Division.class
+module-10/DomesticDivision.class
+module-10/InternationalDivision.class
+module-10/UseDivision.class
