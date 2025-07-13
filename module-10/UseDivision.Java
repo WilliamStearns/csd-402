@@ -1,5 +1,5 @@
 /* William Stearns
- * 7-7-25
+ * 7-11-25
  * CSD402
  * This creates and uses instances of the other two classes that inherit from an abstract class.
  */
@@ -19,4 +19,5 @@ public class UseDivision {
         intl1.display();
         intl2.display();
     }
+ 
 }

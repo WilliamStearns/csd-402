@@ -10,8 +10,8 @@ public class InternationalDivision extends Division {
 
     @Override
     public void display() {
-        System.out.println("International Division: " + getName() + 
-                           ", Account Number: " + getAccountNumber() + 
+        System.out.println("International Division: " + super.getName() + 
+                           ", Account Number: " + super.getAccountNumber() + 
                            ", Country: " + country + 
                            ", Language: " + language);
     }

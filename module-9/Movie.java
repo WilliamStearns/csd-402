@@ -36,6 +36,8 @@ public class Movie {
             System.out.println("\nYou selected: " + selectedMovie);
         } catch (Exception e) {
             System.out.println("Out of Bounds");  // Required message
+        } finally {
+            scanner.close();
         }
     }
 

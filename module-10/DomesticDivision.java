@@ -5,11 +5,12 @@ public class DomesticDivision extends Division {
         super(name, accountNumber);
         this.state = state;
     }
+  
 
     @Override
     public void display() {
-        System.out.println("Domestic Division: " + getName() + 
-                           ", Account Number: " + getAccountNumber() + 
+        System.out.println("Domestic Division: " + super.getName() + 
+                           ", Account Number: " + super.getAccountNumber() + 
                            ", State: " + state);
     }
 }
